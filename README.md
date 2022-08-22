@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 <p align="left"> 
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonder-boooy&layout=compact" />
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api?username=wonder-boooy&show_icons=true" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api?username=wonder-boooy&show_icons=true&count_private=true&include_all_commits=true" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wonder-boooy&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
