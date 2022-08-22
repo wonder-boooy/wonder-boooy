@@ -23,4 +23,6 @@ Here are some ideas to get you started:
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=wonder-boooy&layout=compact&langs_count=8" />
 </p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wonder-boooy)](https://git.io/streak-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=wonder-boooy&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
